@@ -1,0 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Press+Start+2P);
+body {
+    margin: 0px 0px 1px 0px; /* the extra 1px allows the iOS inner/outer check to work */
+    background: #000;
+    overflow: hidden;
+    font-family: 'Press Start 2P', cursive;
+}
+
+@font-face {  font-family: 'Press Start 2P';  src: url('https://fonts.googleapis.com/css?family=Press+Start+2P') format('truetype');}body {    font-family: 'fontName';}.fontLoader {    position: absolute;    left: -1000px;}
